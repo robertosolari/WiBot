@@ -1,6 +1,7 @@
 # WiBot
-WiBot project
-feb 2013 - giu 2013
+WiBot Project
+
+*feb 2013 - giu 2013*
 
 In collaborazione con due amici ho realizzato il progetto "WiBot". Si
 tratta di un piccolo robot equipaggiato di una scheda Raspberry Pi, che
