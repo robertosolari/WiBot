@@ -1,4 +1,4 @@
-# wibot
+# WiBot
 WiBot project
 feb 2013 - giu 2013
 
